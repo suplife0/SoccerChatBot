@@ -1,0 +1,786 @@
+Manchester United
+33
+Newcastle
+34
+Watford
+38
+Wolves
+39
+Liverpool
+40
+Southampton
+41
+Arsenal
+42
+Burnley
+44
+Everton
+45
+Leicester
+46
+Tottenham
+47
+West Ham
+48
+Chelsea
+49
+Manchester City
+50
+Brighton
+51
+Crystal Palace
+52
+Brentford
+55
+Leeds
+63
+Aston Villa
+66
+Norwich
+71
+Barcelona
+529
+Atletico Madrid
+530
+Athletic Club
+531
+Valencia
+532
+Villarreal
+533
+Sevilla
+536
+Celta Vigo
+538
+Levante
+539
+Espanyol
+540
+Real Madrid
+541
+Alaves
+542
+Real Betis
+543
+Getafe
+546
+Real Sociedad
+548
+Granada CF
+715
+Cadiz
+724
+Osasuna
+727
+Rayo Vallecano
+728
+Elche
+797
+Mallorca
+798
+Angers
+77
+Bordeaux
+78
+Lille
+79
+Lyon
+80
+Marseille
+81
+Montpellier
+82
+Nantes
+83
+Nice
+84
+Paris Saint Germain
+85
+Monaco
+91
+Reims
+93
+Rennes
+94
+Strasbourg
+95
+Lorient
+97
+Clermont Foot
+99
+Stade Brestois 29
+106
+Auxerre
+108
+Estac Troyes
+110
+Metz
+112
+Lens
+116
+Saint Etienne
+1063
+Lazio
+487
+Sassuolo
+488
+AC Milan
+489
+Cagliari
+490
+Napoli
+492
+Udinese
+494
+Genoa
+495
+Juventus
+496
+AS Roma
+497
+Sampdoria
+498
+Atalanta
+499
+Bologna
+500
+Fiorentina
+502
+Torino
+503
+Verona
+504
+Inter
+505
+Empoli
+511
+Salernitana
+514
+Spezia
+515
+Venezia
+517
+Bayern Munich
+157
+Hertha Berlin
+159
+SC Freiburg
+160
+VfL Wolfsburg
+161
+Borussia Monchengladbach
+163
+FSV Mainz 05
+164
+Borussia Dortmund
+165
+1899 Hoffenheim
+167
+Bayer Leverkusen
+168
+Eintracht Frankfurt
+169
+FC Augsburg
+170
+VfB Stuttgart
+172
+RB Leipzig
+173
+Hamburger SV
+175
+VfL BOCHUM
+176
+SpVgg Greuther Furth
+178
+Union Berlin
+182
+Arminia Bielefeld
+188
+FC Koln
+192
+Benfica
+211
+FC Porto
+212
+Maritimo
+214
+Moreirense
+215
+Portimonense
+216
+SC Braga
+217
+Tondela
+218
+Belenenses
+221
+Boavista
+222
+Chaves
+223
+Guimaraes
+224
+Santa Clara
+227
+Sporting CP
+228
+Estoril
+230
+Pacos Ferreira
+234
+Arouca
+240
+Famalicao
+242
+GIL Vicente
+762
+Vizela
+810
+Gangwon FC
+2746
+Daegu FC
+2747
+Daejeon Citizen
+2750
+Suwon City FC
+2756
+Seongnam FC
+2757
+Gwangju FC
+2759
+Jeju United FC
+2761
+Jeonbuk Motors
+2762
+Incheon United
+2763
+Pohang Steelers
+2764
+Suwon Bluewings
+2765
+FC Seoul
+2766
+Ulsan Hyundai FC
+2767
+Manchester United
+33
+Liverpool
+40
+Chelsea
+49
+Manchester City
+50
+Lille
+79
+Paris Saint Germain
+85
+Monaco
+91
+Bayern Munich
+157
+VfL Wolfsburg
+161
+Borussia Dortmund
+165
+RB Leipzig
+173
+Ajax
+194
+PSV Eindhoven
+197
+Benfica
+211
+FC Porto
+212
+Sporting CP
+228
+Celtic
+247
+Rangers
+257
+Valur Reykjavik
+274
+Bodo/Glimt
+327
+Legia Warszawa
+339
+GAP Connah S Quay FC
+357
+Malmo FF
+375
+Shakhter Soligorsk
+392
+FC Midtjylland
+397
+Brondby
+407
+AC Milan
+489
+Juventus
+496
+Atalanta
+499
+Inter
+505
+Barcelona
+529
+Atletico Madrid
+530
+Villarreal
+533
+Sevilla
+536
+Real Madrid
+541
+Besiktas
+549
+Shakhtar Donetsk
+550
+Olympiakos Piraeus
+553
+Spartak Moscow
+558
+Slavia Praha
+560
+BSC Young Boys
+565
+Ludogorets
+566
+Sheriff Tiraspol
+568
+Club Brugge KV
+569
+Red Bull Salzburg
+571
+Dynamo Kyiv
+572
+Buducnost Podgorica
+579
+Alashkert
+582
+Linfield
+583
+FK Zalgiris Vilnius
+586
+Zenit Saint Petersburg
+596
+FK Crvena Zvezda
+598
+Shkendija
+609
+Dinamo Zagreb
+620
+Fola Esch
+626
+Sparta Praha
+628
+Galatasaray
+645
+HJK helsinki
+649
+Ferencvarosi TC
+651
+Shamrock Rovers
+652
+Slovan Bratislava
+656
+Kairat Almaty
+664
+Lincoln Red Imps FC
+667
+Folgore
+672
+Prishtina
+680
+Flora Tallinn
+687
+Genk
+742
+Rapid Vienna
+781
+CFR 1907 Cluj
+2246
+Dinamo Tbilisi
+2262
+Neftchi Baku
+2270
+Teuta Durrës
+3320
+Inter Club d'Escaldes
+3342
+Borac Banja Luka
+3364
+Omonia Nicosia
+3402
+Hibernians
+3884
+HB
+4133
+Maccabi Haifa
+4195
+Mura
+4197
+Riga
+10124
+Leicester
+46
+Tottenham
+47
+Marseille
+81
+Rennes
+94
+Union Berlin
+182
+PSV Eindhoven
+197
+Vitesse
+200
+AZ Alkmaar
+201
+Feyenoord
+209
+Santa Clara
+227
+Pacos Ferreira
+234
+Celtic
+247
+Hibernian
+249
+Aberdeen
+252
+ST Johnstone
+258
+FH hafnarfjordur
+270
+Valur Reykjavik
+274
+Stjarnan
+275
+Breidablik
+276
+Valerenga
+326
+Bodo/Glimt
+327
+Molde
+329
+Rosenborg
+331
+Slask Wroclaw
+337
+Pogon Szczecin
+348
+Bala Town
+352
+The New Saints
+354
+GAP Connah S Quay FC
+357
+Newtown AFC
+358
+Hammarby FF
+363
+BK Hacken
+367
+IF elfsborg
+372
+Torpedo Zhodino
+385
+Dinamo Brest
+386
+Bate Borisov
+388
+Shakhter Soligorsk
+392
+FC Midtjylland
+397
+FC Copenhagen
+400
+Randers FC
+401
+Aarhus
+406
+AS Roma
+497
+FC Basel 1893
+551
+Maribor
+552
+Anderlecht
+554
+Qarabag
+556
+FCSB
+559
+Slavia Praha
+560
+HNK Rijeka
+561
+FC Astana
+562
+Hapoel Beer Sheva
+563
+Plzen
+567
+FK Partizan
+573
+AEK Athens FC
+575
+F91 Dudelange
+578
+Buducnost Podgorica
+579
+Alashkert
+582
+Linfield
+583
+Dundalk
+584
+FK Zalgiris Vilnius
+586
+FC Santa Coloma
+591
+Zorya Luhansk
+599
+Austria Vienna
+601
+Apollon Limassol
+602
+Maccabi Tel Aviv
+604
+HNK Hajduk Split
+608
+Shkendija
+609
+Videoton FC
+610
+Fenerbahce
+611
+Suduva Marijampole
+612
+NK Domzale
+615
+NK Osijek
+616
+PAOK
+619
+Fola Esch
+626
+Sparta Praha
+628
+Gent
+631
+CS Universitatea Craiova
+632
+Siroki Brijeg
+642
+FC Luzern
+644
+HJK helsinki
+649
+Shamrock Rovers
+652
+Slovan Bratislava
+656
+FC Vaduz
+660
+FK Liepaja
+661
+Kairat Almaty
+664
+Keshla FC
+666
+Lincoln Red Imps FC
+667
+Coleraine FC
+669
+Folgore
+672
+Sutjeska
+673
+UE Sant Julia
+674
+Olimpija Ljubljana
+677
+FK Sarajevo
+679
+Prishtina
+680
+NSI Runavik
+682
+Flora Tallinn
+687
+Milsami Orhei
+691
+St Joseph S Fc
+698
+Tre Penne
+700
+KI Klaksvik
+701
+Vojvodina
+702
+Dinamo Batumi
+705
+Partizani
+708
+Rapid Vienna
+781
+CSKA Sofia
+853
+Lokomotiv Plovdiv
+858
+Trabzonspor
+998
+Sivasspor
+1002
+Lask Linz
+1026
+Rubin
+1083
+Spartak Trnava
+1120
+Vorskla Poltava
+1121
+FK Jablonec
+1122
+Aris Thessalonikis
+1123
+Inter Turku
+1164
+KuPS
+1165
+Honka
+1169
+Arda Kardzhali
+1430
+PFC Sochi
+2012
+Racing FC Union Luxembourg
+2030
+Servette FC
+2184
+CFR 1907 Cluj
+2246
+La Fiorita
+2249
+Ujpest
+2255
+Laci
+2256
+Dunajska Streda
+2257
+FK Tobol Kostanay
+2259
+Dinamo Tbilisi
+2262
+Gzira United
+2264
+Shkupi 1927
+2265
+Anorthosis
+2269
+Neftchi Baku
+2270
+Petrocub
+2271
+FC Levadia Tallinn
+2273
+Banants Yerevan
+2276
+Birkirkara
+2277
+Puskas Academy
+2391
+Sepsi OSK Sfantu Gheorghe
+2585
+Cukaricki
+2656
+Teuta Durrës
+3320
+Vllaznia Shkodër
+3339
+Inter Club d'Escaldes
+3342
+Borac Banja Luka
+3364
+Velež
+3381
+AEL
+3396
+Omonia Nicosia
+3402
+Raków Częstochowa
+3491
+Dila
+3499
+Gagra
+3505
+Paide
+3528
+Žilina
+3554
+Kolos Kovalivka
+3627
+Ararat
+3682
+Artsakh
+3684
+Slovácko
+3719
+Dečić
+3745
+Mladost Lješkopolje
+3750
+Bohemians
+3840
+Sligo Rovers
+3842
+Kauno Žalgiris
+3872
+Panevėžys
+3874
+Hibernians
+3884
+HB
+4133
+Valmiera / BSS
+4153
+Rīgas FS
+4160
+Maccabi Haifa
+4195
+Mura
+4197
+Sileks
+4331
+Struga
+4346
+Ashdod
+4507
+Shakhter Karagandy
+4566
+Mosta
+4627
+Sfîntul Gheorghe
+4632
+Glentoran
+5352
+Larne
+5354
+Sumqayıt
+5503
+Riga
+10124
+Europa
+10125
+Swift Hesperange
+11907
+Drita
+14281
+Llapi
+14395
+Mons Calpe
+16137
